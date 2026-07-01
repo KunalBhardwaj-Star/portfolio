@@ -5,22 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1781810233791,
-      "tag": "0000_high_tyrannus",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1782936302226,
-      "tag": "0001_opposite_puppet_master",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1782936804808,
-      "tag": "0002_happy_purifiers",
+      "when": 1782939683187,
+      "tag": "0000_fixed_daimon_hellstrom",
       "breakpoints": true
     }
   ]
