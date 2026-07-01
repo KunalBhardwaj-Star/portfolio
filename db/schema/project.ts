@@ -1,17 +1,3 @@
-// id UUID PRIMARY KEY
-// title VARCHAR(255)
-// description TEXT
-
-// github_url TEXT
-// live_url TEXT
-// image_url TEXT
-
-// tech_stack TEXT[]
-// featured TEXT
-
-// created_at TIMESTAMP
-// updated_at TIMESTAMP
-
 import {
     pgTable,
     uuid,
